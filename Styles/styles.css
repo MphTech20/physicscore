@@ -145,7 +145,7 @@ nav{
   flex-direction:column;gap:0;
 }
 @media(min-width:768px){.mobile-menu{top:84px}}
-.mobile-menu.open{display:flex;margin-top: 20px;}
+.mobile-menu.open{display:flex;margin-top: 25px;}
 .mobile-menu a{
   font-family:var(--font-mono);font-size:.85rem;letter-spacing:.12em;text-transform:uppercase;
   color:rgba(255,255,255,.65);text-decoration:none;
