@@ -168,3 +168,4 @@ document.querySelectorAll('.tile').forEach((t,i)=>{
   t.style.transitionDelay=`${(i%4)*.06}s`;
   revObs.observe(t);
 });
+
